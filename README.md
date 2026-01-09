@@ -3,7 +3,9 @@
 ## Project Overview
 This project focuses on cleaning, exploring, and analyzing a bike buyers dataset using SQL and Power BI. The aim was to transform raw customer data into a clean, structured format and generate meaningful insights into the factors that influence bicycle purchases, such as income level, age, commute distance, and demographic characteristics.
 
-The final output includes structured SQL queries and an interactive Power BI dashboard for easy insight exploration.
+The final output includes structured SQL queries and an interactive Power BI dashboard for easy exploration of insights.
+
+<img width="1920" height="1008" alt="Screenshot 2025-12-17 142049" src="https://github.com/user-attachments/assets/6d6d7215-fc06-4fe1-8801-ffe5be13434f" />
 
 ### Data Source
 The primary dataset used for this analysis is the Bike Buyers CSV dataset. It contains demographic and lifestyle information for customers, including:
