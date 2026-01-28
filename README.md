@@ -17,6 +17,7 @@ The primary dataset used for this analysis is the Bike Buyers CSV dataset. It co
 - Commute distance
 - Region
 - Bike purchase status
+
 This dataset serves as the raw input for both SQL analysis and Power BI visualization.
 
 ### Problem Statement
@@ -75,6 +76,7 @@ The Power BI dashboard was built to present insights in a clear and interactive 
 - Demographic and income breakdowns
 - Interactive filters for deeper exploration
 - Clear visuals designed for non-technical stakeholders
+
 The dashboard allows non-technical stakeholders to easily explore trends and make data-driven decisions.
 
 ### Key Findings
